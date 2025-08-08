@@ -1,0 +1,78 @@
+2025-08-07 21:28:24,242 - INFO - Successfully fetched submissions for user: traverser_25
+2025-08-07 21:28:24,244 - INFO - User traverser_25 has 0 accepted submissions today.
+2025-08-07 21:39:01,581 - INFO - Successfully fetched submissions for user: traverser_25
+2025-08-07 21:39:01,585 - INFO - User traverser_25 has 0 accepted submissions today.
+2025-08-08 11:30:17,903 - INFO - Requesting 10 roast(s) for target='my lazy self', model=gpt-4o-mini
+2025-08-08 11:30:18,048 - ERROR - RequestException while generating roasts: 404 Client Error: Not Found for url: https://api.groq.com/openai/v1/chat/completions
+2025-08-08 11:35:20,509 - INFO - Requesting 5 roast(s) for target='my lazy self'
+2025-08-08 11:35:21,530 - INFO - Generated 5 roast(s)
+2025-08-08 11:36:21,128 - INFO - Requesting 5 roast(s) for target='my lazy self'
+2025-08-08 11:36:23,731 - INFO - Generated 5 roast(s)
+2025-08-08 11:37:07,353 - INFO - Requesting 5 roast(s) for target='my lazy self'
+2025-08-08 11:37:08,571 - INFO - Generated 5 roast(s)
+2025-08-08 11:37:22,888 - INFO - Requesting 5 roast(s) for target='my lazy self'
+2025-08-08 11:37:24,664 - INFO - Generated 5 roast(s)
+2025-08-08 11:37:56,456 - INFO - Requesting 5 roast(s) for target='my lazy self'
+2025-08-08 11:37:57,843 - INFO - Generated 5 roast(s)
+2025-08-08 11:38:23,901 - INFO - Requesting 5 roast(s) for target='my lazy self who  dont code daily'
+2025-08-08 11:38:25,257 - INFO - Generated 5 roast(s)
+2025-08-08 11:49:10,243 - INFO - Successfully fetched submissions for user: traverser_25
+2025-08-08 11:49:10,243 - INFO - User traverser_25 has 0 accepted submissions today.
+2025-08-08 11:49:10,551 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-08-08 11:49:10,966 - INFO - Vipe_coder [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-08-08 11:49:11,289 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-08-08 11:49:14,435 - INFO - Vipe_coder [200] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-08-08 11:49:15,437 - INFO - https://i.instagram.com/api/v1/feed/reels_tray/
+2025-08-08 11:49:16,100 - INFO - Vipe_coder [200] POST https://i.instagram.com/api/v1/feed/reels_tray/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-08-08 11:49:17,102 - INFO - https://i.instagram.com/api/v1/feed/timeline/
+2025-08-08 11:49:20,792 - INFO - Vipe_coder [200] POST https://i.instagram.com/api/v1/feed/timeline/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-08-08 11:49:22,668 - INFO - Vipe_coder [200] POST https://i.instagram.com/rupload_igphoto/1754633960813_0_6973128848 (269.0.0.18.75, OnePlus 6T Dev)
+2025-08-08 11:49:26,672 - INFO - https://i.instagram.com/api/v1/media/configure_to_story/
+2025-08-08 11:49:30,250 - INFO - Vipe_coder [200] POST https://i.instagram.com/api/v1/media/configure_to_story/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-08-08 11:49:31,253 - INFO - https://i.instagram.com/api/v1/qe/expose/
+2025-08-08 11:49:31,621 - INFO - Vipe_coder [200] POST https://i.instagram.com/api/v1/qe/expose/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-08-08 11:59:09,659 - INFO - Successfully fetched submissions for user: traverser_25
+2025-08-08 11:59:09,660 - INFO - User traverser_25 has 0 accepted submissions today.
+2025-08-08 11:59:10,275 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-08-08 11:59:10,716 - INFO - Vipe_coder [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-08-08 11:59:11,097 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-08-08 11:59:14,445 - INFO - Vipe_coder [200] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-08-08 11:59:15,462 - INFO - https://i.instagram.com/api/v1/feed/reels_tray/
+2025-08-08 11:59:16,195 - INFO - Vipe_coder [200] POST https://i.instagram.com/api/v1/feed/reels_tray/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-08-08 11:59:17,204 - INFO - https://i.instagram.com/api/v1/feed/timeline/
+2025-08-08 11:59:21,408 - INFO - Vipe_coder [200] POST https://i.instagram.com/api/v1/feed/timeline/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-08-08 11:59:23,811 - INFO - Vipe_coder [200] POST https://i.instagram.com/rupload_igphoto/1754634561441_0_2178355465 (269.0.0.18.75, OnePlus 6T Dev)
+2025-08-08 11:59:27,822 - INFO - https://i.instagram.com/api/v1/media/configure_to_story/
+2025-08-08 11:59:31,694 - INFO - Vipe_coder [200] POST https://i.instagram.com/api/v1/media/configure_to_story/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-08-08 11:59:32,703 - INFO - https://i.instagram.com/api/v1/qe/expose/
+2025-08-08 11:59:33,136 - INFO - Vipe_coder [200] POST https://i.instagram.com/api/v1/qe/expose/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-08-08 12:03:25,024 - INFO - Successfully fetched submissions for user: traverser_25
+2025-08-08 12:03:25,024 - INFO - User traverser_25 has 0 accepted submissions today.
+2025-08-08 12:03:25,840 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-08-08 12:03:26,292 - INFO - Vipe_coder [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-08-08 12:03:26,671 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-08-08 12:03:29,973 - INFO - Vipe_coder [200] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-08-08 12:03:30,974 - INFO - https://i.instagram.com/api/v1/feed/reels_tray/
+2025-08-08 12:03:31,742 - INFO - Vipe_coder [200] POST https://i.instagram.com/api/v1/feed/reels_tray/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-08-08 12:03:32,744 - INFO - https://i.instagram.com/api/v1/feed/timeline/
+2025-08-08 12:03:36,733 - INFO - Vipe_coder [200] POST https://i.instagram.com/api/v1/feed/timeline/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-08-08 12:03:39,053 - INFO - Vipe_coder [200] POST https://i.instagram.com/rupload_igphoto/1754634816765_0_2407086962 (269.0.0.18.75, OnePlus 6T Dev)
+2025-08-08 12:03:43,056 - INFO - https://i.instagram.com/api/v1/media/configure_to_story/
+2025-08-08 12:03:50,275 - INFO - Vipe_coder [200] POST https://i.instagram.com/api/v1/media/configure_to_story/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-08-08 12:03:51,278 - INFO - https://i.instagram.com/api/v1/qe/expose/
+2025-08-08 12:03:52,282 - INFO - Vipe_coder [200] POST https://i.instagram.com/api/v1/qe/expose/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-08-08 12:05:34,109 - INFO - Successfully fetched submissions for user: traverser_25
+2025-08-08 12:05:34,111 - INFO - User traverser_25 has 0 accepted submissions today.
+2025-08-08 12:05:34,914 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-08-08 12:05:35,327 - INFO - Vipe_coder [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-08-08 12:05:35,679 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-08-08 12:05:39,313 - INFO - Vipe_coder [200] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-08-08 12:05:40,314 - INFO - https://i.instagram.com/api/v1/feed/reels_tray/
+2025-08-08 12:05:40,899 - INFO - Vipe_coder [200] POST https://i.instagram.com/api/v1/feed/reels_tray/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-08-08 12:05:41,903 - INFO - https://i.instagram.com/api/v1/feed/timeline/
+2025-08-08 12:05:45,250 - INFO - Vipe_coder [200] POST https://i.instagram.com/api/v1/feed/timeline/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-08-08 12:05:47,609 - INFO - Vipe_coder [200] POST https://i.instagram.com/rupload_igphoto/1754634945280_0_5293893414 (269.0.0.18.75, OnePlus 6T Dev)
+2025-08-08 12:05:51,613 - INFO - https://i.instagram.com/api/v1/media/configure_to_story/
+2025-08-08 12:05:54,866 - INFO - Vipe_coder [200] POST https://i.instagram.com/api/v1/media/configure_to_story/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-08-08 12:05:55,868 - INFO - https://i.instagram.com/api/v1/qe/expose/
+2025-08-08 12:05:56,160 - INFO - Vipe_coder [200] POST https://i.instagram.com/api/v1/qe/expose/ (269.0.0.18.75, OnePlus 6T Dev)
